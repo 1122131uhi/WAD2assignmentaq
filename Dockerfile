@@ -19,4 +19,4 @@ RUN cd ./app
 CMD ["./app/startup.sh"]
 
 
-EXPOSE 3000
+EXPOSE 4000
